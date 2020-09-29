@@ -1,0 +1,5 @@
+flows:
+  09845c5d-d936-423f-b399-8626fd6c17bc: {ver: 1, file: myflow.snapshot, comments: 1.0.0,
+    author: anonymous, created: 1601392969645, flowName: myflow, flowDesc: just testing}
+layoutVer: 1
+bucketId: 7cedb6f7-9816-44a7-b552-e3bcc81a70b4
